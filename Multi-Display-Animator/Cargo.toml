@@ -1,0 +1,19 @@
+[package]
+name = "proyecto1"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+libc = "0.2"
+nix = "0.25.0"
+linux-personality = "1.0"
+state = "0.5"
+crosscurses = "0.1.0"
+rand = "0.8.5"
+goto = "0.1.2"
+signal-hook = { version = "0.3.4", features = ["extended-siginfo"] }
+ctrlc = "3.2.3"
+ncurses = "5.101.0"
+num = "0.4.0"

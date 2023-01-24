@@ -1,0 +1,11 @@
+/home/beto/Documents/Repositories/SistemasOperativos/tarea3/ic-6600-t3-webServerAttack/client/target/debug/deps/futures_core-eec682ea925bd9d2.rmeta: /home/beto/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.24/src/lib.rs /home/beto/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.24/src/future.rs /home/beto/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.24/src/stream.rs /home/beto/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.24/src/task/mod.rs /home/beto/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.24/src/task/poll.rs /home/beto/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.24/src/task/__internal/mod.rs /home/beto/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.24/src/task/__internal/atomic_waker.rs
+
+/home/beto/Documents/Repositories/SistemasOperativos/tarea3/ic-6600-t3-webServerAttack/client/target/debug/deps/futures_core-eec682ea925bd9d2.d: /home/beto/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.24/src/lib.rs /home/beto/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.24/src/future.rs /home/beto/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.24/src/stream.rs /home/beto/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.24/src/task/mod.rs /home/beto/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.24/src/task/poll.rs /home/beto/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.24/src/task/__internal/mod.rs /home/beto/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.24/src/task/__internal/atomic_waker.rs
+
+/home/beto/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.24/src/lib.rs:
+/home/beto/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.24/src/future.rs:
+/home/beto/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.24/src/stream.rs:
+/home/beto/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.24/src/task/mod.rs:
+/home/beto/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.24/src/task/poll.rs:
+/home/beto/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.24/src/task/__internal/mod.rs:
+/home/beto/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.24/src/task/__internal/atomic_waker.rs:
