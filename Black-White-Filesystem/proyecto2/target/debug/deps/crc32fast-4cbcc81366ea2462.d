@@ -1,0 +1,10 @@
+/home/nuwidra/Escritorio/II Proyecto/IC-6600_Black-White-Filesystem_Proyecto-2/proyecto2/target/debug/deps/crc32fast-4cbcc81366ea2462.rmeta: /home/nuwidra/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.2/src/lib.rs /home/nuwidra/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.2/src/baseline.rs /home/nuwidra/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.2/src/combine.rs /home/nuwidra/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.2/src/specialized/mod.rs /home/nuwidra/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.2/src/table.rs /home/nuwidra/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.2/src/specialized/pclmulqdq.rs
+
+/home/nuwidra/Escritorio/II Proyecto/IC-6600_Black-White-Filesystem_Proyecto-2/proyecto2/target/debug/deps/crc32fast-4cbcc81366ea2462.d: /home/nuwidra/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.2/src/lib.rs /home/nuwidra/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.2/src/baseline.rs /home/nuwidra/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.2/src/combine.rs /home/nuwidra/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.2/src/specialized/mod.rs /home/nuwidra/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.2/src/table.rs /home/nuwidra/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.2/src/specialized/pclmulqdq.rs
+
+/home/nuwidra/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.2/src/lib.rs:
+/home/nuwidra/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.2/src/baseline.rs:
+/home/nuwidra/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.2/src/combine.rs:
+/home/nuwidra/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.2/src/specialized/mod.rs:
+/home/nuwidra/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.2/src/table.rs:
+/home/nuwidra/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.2/src/specialized/pclmulqdq.rs:

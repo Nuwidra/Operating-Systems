@@ -1,0 +1,8 @@
+/home/nuwidra/Escritorio/II Proyecto/IC-6600_Black-White-Filesystem_Proyecto-2/proyecto2/target/debug/deps/num_rational-d4669ad275d39b42.rmeta: /home/nuwidra/.cargo/registry/src/github.com-1ecc6299db9ec823/num-rational-0.3.2/src/lib.rs /home/nuwidra/.cargo/registry/src/github.com-1ecc6299db9ec823/num-rational-0.3.2/src/pow.rs
+
+/home/nuwidra/Escritorio/II Proyecto/IC-6600_Black-White-Filesystem_Proyecto-2/proyecto2/target/debug/deps/libnum_rational-d4669ad275d39b42.rlib: /home/nuwidra/.cargo/registry/src/github.com-1ecc6299db9ec823/num-rational-0.3.2/src/lib.rs /home/nuwidra/.cargo/registry/src/github.com-1ecc6299db9ec823/num-rational-0.3.2/src/pow.rs
+
+/home/nuwidra/Escritorio/II Proyecto/IC-6600_Black-White-Filesystem_Proyecto-2/proyecto2/target/debug/deps/num_rational-d4669ad275d39b42.d: /home/nuwidra/.cargo/registry/src/github.com-1ecc6299db9ec823/num-rational-0.3.2/src/lib.rs /home/nuwidra/.cargo/registry/src/github.com-1ecc6299db9ec823/num-rational-0.3.2/src/pow.rs
+
+/home/nuwidra/.cargo/registry/src/github.com-1ecc6299db9ec823/num-rational-0.3.2/src/lib.rs:
+/home/nuwidra/.cargo/registry/src/github.com-1ecc6299db9ec823/num-rational-0.3.2/src/pow.rs:
